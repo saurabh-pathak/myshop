@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/myshop"/>
+    <filter root="/content/myshop"/>
+    <filter root="/content/dam/myshop"/>
+</workspaceFilter>
